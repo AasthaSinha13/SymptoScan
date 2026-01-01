@@ -1,27 +1,56 @@
-Human Disease Identification System (SymptoScan)
+## Human Disease Identification System (SymptoScan)
+---
+## 🔍 Overview
 
-A web-based application that identifies possible human diseases based on user-entered symptoms using API integration.
+The Human Disease Identification System is a web-based application designed to predict possible diseases based on user-entered symptoms. This project is developed as part of an academic mini project using API integration.
 
-🔍 Overview
+---
 
-The system allows users to enter symptoms and their duration to get possible disease predictions using a medical API. It is designed for educational and academic purposes.
+## 🌐 Live Demo
 
-✨ Features
+🔗 (Add GitHub Pages / Live URL here)
 
-Symptom-based disease prediction
-Medical API integration (SymptoScan)
-Simple and user-friendly interface
-Responsive web design
+---
 
-🛠️ Technologies Used
+## 📄 Project Description
+
+This system analyzes symptoms provided by users and returns possible disease information using a medical API. It focuses on simplicity, usability, and educational value.
+
+---
+
+## ⚙️ Features
+
+Symptom input and analysis
+Disease prediction using API
+Simple and clean UI
+Responsive design
+
+---
+
+## 🛠️ Tech Stack
 
 HTML, CSS, JavaScript
-Node.js, Express.js
+Node.js
+Express.js
 Medical API
-Git & GitHub
 
-⚠️ Disclaimer
+---
 
-This project is for learning purposes only and does not replace professional medical advice.
+## 🚀 Usage
 
-⭐ Project created for academic use
+1. Open index.html in a browser
+2. Enter symptoms
+3. View predicted results
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes only and should not be used for medical diagnosis.
+
+---
+
+## ⭐ Academic Project
+
+Project created for academic use.
+
