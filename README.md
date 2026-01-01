@@ -24,7 +24,4 @@ Git & GitHub
 
 This project is for learning purposes only and does not replace professional medical advice.
 
-
----
-
 ⭐ Project created for academic use
