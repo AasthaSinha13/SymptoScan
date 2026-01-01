@@ -8,7 +8,7 @@ The Human Disease Identification System is a web-based application designed to p
 
 ## 🌐 Live Demo
 
-🔗 (Add GitHub Pages / Live URL here)
+🔗 https://aasthasinha13.github.io/SymptoScan/
 
 ---
 
